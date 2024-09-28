@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "091c52fb-9d20-4623-a3f8-1d8b26cc8ea1",
+    "name": "Ernest Lockman",
+    "phone": "1-915-337-5075 x04186",
+    "email": "Modesto_Bartell4@yahoo.com",
+    "job": "Internal Program Strategist"
+  },
+  {
+    "id": "f7742147-8a37-42e8-bc5e-37dda7d98704",
+    "name": "Verna Swift",
+    "phone": "1-240-934-0158",
+    "email": "Veronica65@hotmail.com",
+    "job": "Senior Optimization Producer"
+  },
+  {
+    "id": "fdaf91b6-906e-4b5b-9ab0-483fed54998b",
+    "name": "Gary Daugherty MD",
+    "phone": "435.809.9376 x8841",
+    "email": "Lee69@yahoo.com",
+    "job": "Product Data Officer"
+  },
+  {
+    "id": "c79fdfa3-2fcf-4eb7-b149-8696ff85489e",
+    "name": "Bill Raynor",
+    "phone": "(292) 505-1641 x8019",
+    "email": "Desmond_Fisher30@yahoo.com",
+    "job": "Internal Usability Strategist"
+  },
+  {
+    "id": "cff4f75c-18e1-41fb-af8d-8b27744dae0b",
+    "name": "Leona Zieme",
+    "phone": "642.269.5717",
+    "email": "Solon.Bins@gmail.com",
+    "job": "Regional Applications Consultant"
+  }
+]
